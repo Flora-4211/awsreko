@@ -233,7 +233,7 @@ def usage_demo():
     street_scene_file_name = "./media/pexels-kaique-rocha-109919.jpg"
     celebrity_file_name = "./media/pexels-pixabay-53370.jpg"
     one_girl_url = 'https://dhei5unw3vrsx.cloudfront.net/images/source3_resized.jpg'
-    three_girls_url = 'https://dhei5unw3vrsx.cloudfront.net/images/target3_resized.jpg'
+    three_girls_url = 'https://dhei5unw3vrsx.cloudfront.net/images/ggg.png'
     swimwear_object = boto3.resource('s3').Object(
         'console-sample-images-pdx', 'yoga_swimwear.jpg')
     book_file_name = './media/pexels-christina-morillo-1181671.jpg'
